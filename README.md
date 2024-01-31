@@ -1,10 +1,9 @@
-# edu-education
+<div align="center">
+  <img src="education-preview.png" alt="Thumbnail">
+  <br>
+  <br>
+  <br>
+  <img src="education-preview2.png" alt="Thumbnail">
+    Thank You!
+</div>
 
-![Thumbnail](education-preview.png)
-<br>
-<br>
-<br>
-![Thumbnail](education-preview2.png)
-<br>
-<br>
-Thank You!
