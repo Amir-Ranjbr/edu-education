@@ -4,6 +4,8 @@
   <br>
   <br>
   <img src="education-preview2.png" alt="Thumbnail">
+  <br>
+  
     Thank You!
 </div>
 
