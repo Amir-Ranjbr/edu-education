@@ -5,7 +5,7 @@
   <br>
   <img src="education-preview2.png" alt="Thumbnail">
   <br>
-  
-    Thank You!
+  <br>
+  <p>Thank You!</p>
 </div>
 
